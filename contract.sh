@@ -132,5 +132,5 @@ echo -e "${BOLD_PINK}Deploying Contract on Zero Network...${RESET_COLOR}"
 echo
 npx hardhat deploy-zksync --network zeroTestnet
 echo
-echo -e "${BOLD_PINK}Follow @ZunXBT on X${RESET_COLOR}"
+echo -e "${BOLD_PINK}Follow @CoinHuntersTR on X${RESET_COLOR}"
 echo
